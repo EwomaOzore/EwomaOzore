@@ -40,9 +40,6 @@ I build products that **work smoothly across browsers, devices, and screen sizes
 ![](https://nirzak-streak-stats.vercel.app/?user=EwomaOzore&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EwomaOzore&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EwomaOzore&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## 📌 Currently Interested In
@@ -54,5 +51,4 @@ I build products that **work smoothly across browsers, devices, and screen sizes
 ---
 
 ## 🔗 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ewomaozore) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ewomaozore@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ewomaozore.vercel.app)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ewomaozore) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ewomaozore@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://ewomaozore.vercel.app)
