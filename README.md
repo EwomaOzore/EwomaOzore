@@ -8,7 +8,7 @@ I enjoy working closely with designers, product managers, and backend engineers 
 
 ---
 
-## 🚀 What I Do Best
+# 🚀 What I Do Best
 
 - Build **high-performance web applications** with React and Next.js  
 - Develop **cross-platform mobile apps** (iOS & Android) using React Native and Expo  
@@ -24,7 +24,7 @@ I enjoy working closely with designers, product managers, and backend engineers 
 
 ---
 
-## 📱 Web + Mobile Focus
+# 📱 Web + Mobile Focus
 
 I don’t just build interfaces that look good.  
 I build products that **work smoothly across browsers, devices, and screen sizes**, including:
@@ -42,7 +42,7 @@ I build products that **work smoothly across browsers, devices, and screen sizes
 
 ---
 
-## 📌 Currently Interested In
+# 📌 Currently Interested In
 
 - Frontend or Mobile Engineer roles  
 - Remote or hybrid teams  
@@ -50,5 +50,5 @@ I build products that **work smoothly across browsers, devices, and screen sizes
 
 ---
 
-## 🔗 Let’s Connect
+# 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ewomaozore) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ewomaozore@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://ewomaozore.vercel.app)
