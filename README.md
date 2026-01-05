@@ -1,66 +1,68 @@
-# Hi, I’m Ewoma 👋
+# 👋 Hi, I’m Ewoma Ozore
 
-Frontend Engineer with 5+ years of experience building scalable, user-focused web and mobile applications. I specialize in modern JavaScript frameworks and enjoy turning complex requirements into clean, performant, and accessible user interfaces.
+**Senior Frontend Engineer | Web & Mobile (React, React Native, TypeScript)**  
 
----
+I’m a frontend engineer with **5+ years of experience** building **scalable web and mobile applications** used by thousands of users. I specialize in creating clean, performant, and accessible user interfaces using **React, Next.js, React Native, and TypeScript**.
 
-## 👨🏽‍💻 About Me
-
-- Frontend-focused Software Engineer with experience across **enterprise and startup environments**
-- Strong background in **React, Next.js, TypeScript, and modern JavaScript**
-- Experienced in translating **Figma designs into pixel-perfect, responsive UIs**
-- Comfortable owning features **from design through production**
-- Collaborative team player who values clean code, performance, and great user experience
+I enjoy working closely with designers, product managers, and backend engineers to turn complex requirements into simple, intuitive user experiences. I’ve worked on both **enterprise-scale products** and **startup applications**, taking features from idea to production.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do Best
 
-**Frontend**
-- JavaScript (ES6+), TypeScript  
-- React.js, Next.js, Vue.js (basic)  
-- HTML5, CSS3, Tailwind CSS  
-- State Management: Redux, Context API, Recoil, Pinia  
-
-**Backend & APIs**
-- RESTful API integration  
-- Node.js, Express (basic)  
-- Python (data & service logic)
-
-**Tools & Platforms**
-- Git (GitHub / GitLab)  
-- Webflow (custom code & API integration)  
-- Figma (design collaboration & handoff)  
-- AWS (basic cloud services)
+- Build **high-performance web applications** with React and Next.js  
+- Develop **cross-platform mobile apps** (iOS & Android) using React Native and Expo  
+- Translate Figma designs into **pixel-accurate, responsive UIs**  
+- Integrate and optimize **RESTful APIs** for real-world products  
+- Improve performance, accessibility, and code quality in large codebases  
+- Collaborate in agile teams and mentor junior developers  
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🧠 Tech Stack
 
-- Built and maintained production applications serving **hundreds of thousands of users**
-- Delivered responsive, accessible interfaces for **consumer and enterprise products**
-- Refactored and modernized frontend codebases to improve performance and maintainability
-- Collaborated closely with designers, backend engineers, and product managers
-- Integrated complex APIs and optimized frontend data flows
-- Participated actively in code reviews and technical discussions
+### Frontend (Web)
+- **React.js**, **Next.js**
+- **TypeScript**, JavaScript (ES6+)
+- Tailwind CSS, SASS/SCSS, CSS3, HTML5
+- State Management: Redux, Recoil, Context API
 
----
+### Mobile
+- **React Native**
+- **Expo**
+- Redux for complex state flows
+- iOS & Android deployment experience
 
-## 🚀 What I Care About
-
-- Writing **clean, maintainable, and scalable code**
-- Building interfaces that feel simple and intuitive for users
-- Performance, accessibility, and attention to detail
-- Continuous learning and improving how products are built
-
----
-
-## 📫 Let’s Connect
-
-- Portfolio: https://ewomaozore.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/ewomaozore  
-- Email: ewomaozore@gmail.com  
+### Tools & Workflow
+- Git, GitHub
+- Azure DevOps
+- Agile / Scrum collaboration
+- Performance optimization & debugging
 
 ---
 
-*Always open to opportunities where I can build meaningful products, grow technically, and contribute to a strong team.*
+## 📱 Web + Mobile Focus
+
+I don’t just build interfaces that look good.  
+I build products that **work smoothly across browsers, devices, and screen sizes**, including:
+
+- Responsive web dashboards  
+- Mobile-first SaaS platforms  
+- Full React Native apps deployed to app stores  
+
+---
+
+## 📌 Currently Interested In
+
+- Frontend or Mobile Engineer roles  
+- Remote or hybrid teams  
+- Products with real users and real impact  
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌐 Portfolio: https://ewomaozore.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/ewomaozore/  
+- 🧑‍💻 GitHub: https://github.com/EwomaOzore  
+- 📧 Email: ewomaozore@gmail.com
