@@ -35,13 +35,6 @@ I build products that **work smoothly across browsers, devices, and screen sizes
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=EwomaOzore&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EwomaOzore&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EwomaOzore&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 # 📌 Currently Interested In
 
 - Frontend or Mobile Engineer roles  
